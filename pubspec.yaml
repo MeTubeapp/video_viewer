@@ -15,7 +15,7 @@ dependencies:
   helpers: ^1.1.1
   provider: ^5.0.0
   video_player: ^2.1.0
-  universal_html: ^2.0.2
+  universal_html: ^2.0.8
   gesture_x_detector: ^1.0.0
 
 dev_dependencies:
